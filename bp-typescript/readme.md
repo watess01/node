@@ -11,3 +11,7 @@ This is a basic start project for typescript with jest for unit tests
 # Run
 
 `npm run start`
+
+# Test
+
+`npm run test`
